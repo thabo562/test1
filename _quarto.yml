@@ -6,6 +6,7 @@ website:
   title: "A Quarto Website"
   navbar:
     left:
+        - href: Home
         - max.qmd
         - addition.qmd
 
